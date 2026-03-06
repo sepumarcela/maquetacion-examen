@@ -1,0 +1,16 @@
+.sidebar {
+  width: 280px;
+  height: 100vh;
+  background-color: #e0e0e0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border-radius: 0 14px 14px 0;
+}
+
+.sidebar__label {
+  font-size: 14px;
+  color: #3a5a8c;
+  letter-spacing: 1px;
+}
